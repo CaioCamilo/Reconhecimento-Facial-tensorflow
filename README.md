@@ -1,1 +1,1 @@
-Reconhecimento facil
+Este codigo de reconhecimento facial foi obtido a apartir dos videos do professor Sanderson do canal de Youtube “canal sandeco”, o link para a play list dos videos é este: https://www.youtube.com/watch?v=5c6khMzxD6w&list=PLbmt8d_ueDMWy8tXfsIlgOvVjyLoCAYsF
